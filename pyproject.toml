@@ -1,0 +1,18 @@
+[project]
+name = "shape-changes-under-nn"
+version = "0.1.0"
+description = "Demonstration of how the shape of a data cloud simplifies as it progresses through the layers of a neural network "
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.0",
+    "numpy>=2.5.1",
+    "pandas>=3.0.3",
+    "persim>=0.3.8",
+    "plotly>=6.8.0",
+    "ripser>=0.6.15",
+    "scikit-learn>=1.9.0",
+    "tensorflow>=2.21.0",
+]
